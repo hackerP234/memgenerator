@@ -1,45 +1,14 @@
-
 body {
-
-
-
-
- padding-top: 5rem;
-
-
+  padding-top: 5rem;
 }
-
-
-
-
-
 
 img#start-image {
-
-
-   position: absolute;
-
-
-   left: -10000px;
-
-
-   top: -10000px;
-
-
+	position: absolute;
+	left: -10000px;
+	top: -10000px;
 }
 
-
-
-
-
-
 .setting-value {
-
-
-   text-align: center;
-
-
-   font-weight: bold;
-
-
+	text-align: center;
+	font-weight: bold;
 }
