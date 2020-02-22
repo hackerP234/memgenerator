@@ -12,3 +12,35 @@ img#start-image {
 	text-align: center;
 	font-weight: bold;
 }
+
+.red {
+    color: red;
+}
+.setting-value {
+    color:orangered,;
+}
+.page-header {
+    color: orangerose;
+}
+.container {
+    color: violet
+}
+
+.col.md {
+    color: orange
+}
+.form-ccontrol {
+    color: orangered
+}
+.btn-primary {
+    color: orange 
+}
+.navbar-brand {
+    color: orange 
+}
+.navbar-expand-md{
+    color: yellow
+}
+.bg-dark {
+    background-color : rgb(98, 23, 71) !important;
+}
